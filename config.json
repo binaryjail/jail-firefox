@@ -1,0 +1,13 @@
+{
+	"name": "firefox",
+	"packages": [
+		"firefox"
+	],
+	"files":[
+	],
+	"run": {
+		"workingDirectory": "",
+		"command": "firefox",
+		"env": {}
+	}
+}
